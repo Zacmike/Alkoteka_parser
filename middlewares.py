@@ -39,9 +39,6 @@ class ProxyMiddleware:
     
     def __init__(self):
         self.proxy_list = [
-            'http://95.31.35.210:3629',
-            'http://85.175.144.214:8080',
-            'http://85.175.219.236:1080'и
         ]
         self.proxy_index = 0
 
