@@ -18,5 +18,5 @@ Scrapy-парсер для сбора информации о товарах с 
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/alkoteka-parser.git
+git clone https://github.com/Zacmike/alkoteka-parser.git
 cd alkoteka-parser
